@@ -1,0 +1,20 @@
+{
+    "name": "cartorios/sicase",
+    "description": "Consultar dados do sicase via api",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Cartorios\\Sicase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antônio Vicente",
+            "email": "antoniovldamaso@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
