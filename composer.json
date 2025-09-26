@@ -3,6 +3,7 @@
     "description": "Consultar dados do sicase via api",
     "type": "library",
     "license": "proprietary",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Cartorios\\Sicase\\": "src/"
